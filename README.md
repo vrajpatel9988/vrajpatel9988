@@ -14,12 +14,12 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://www.linkedin.com/in/vrajpatel9988/"><img align="left" src="Images/linkedin.svg" alt="Vraj Patel | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/vrajpatell__/"><img align="left" src="Images/instagram.svg" alt="Vraj Patel | Instagram" width="21px"/></a>
+<a href="https://medium.com/@vrajpatel9988"><img align="left" src="Images/medium.svg" alt="Vraj Patel | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
+<!--
 ## 🔭 I'm currently working on
 
 - poke-finder project
@@ -28,7 +28,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 🌱 I'm currently learning
 
 - 
-
+-->
 ## 💼 Technical Skills
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -55,7 +55,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+<!--
 ## 📝 Latest Blog Posts
 
 - [How to Create a Beautiful README for Your GitHub Profile](https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)
@@ -63,6 +63,7 @@ I love the entire process of developing creative websites. I love the challenge 
 - [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
 - [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
 - [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
+-->
 
 ## 📈 GitHub Stats 
 
