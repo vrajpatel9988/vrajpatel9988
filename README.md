@@ -6,8 +6,6 @@
   I'm a Machine Learning Engineer 💻, Photographer 📸, and Designer 🎨!
 </h2>
 
-Greetings fellow developers and tech enthusiasts! I am pleased to introduce myself as a passionate and dedicated machine learning engineer.
-
 # 💫 About Me:
 Hi there! I'm a passionate machine learning engineer who loves building innovative solutions using cutting-edge technology. I believe in the power of collaboration and I'm always on the lookout for opportunities to work with like-minded individuals and organizations. I'm currently exploring new machine learning algorithms and data analysis techniques to improve my skills. If you have any questions about data science or machine learning, feel free to ask me! Let's connect and build something amazing together!
 
