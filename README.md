@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.vrajpatel.tech/" target="_blank" rel="noreferrer"><img src="Images/Vraj_Patel.png" alt="my banner"></a>
+  <a href="https://www.vrajpatel.tech/" target="_blank" rel="noreferrer"><img src="/Images/Vraj_Patel.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
