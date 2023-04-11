@@ -27,4 +27,4 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vrajpatel9988&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=vrajpatel9988.vrajpatel9988)](https://www.vrajpatel.tech/)
