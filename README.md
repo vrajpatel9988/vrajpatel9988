@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
   Hi there, I'm <a href="https:://vrajpatel.tech/" target="_blank">Vraj Patel</a> 👋
-</h2>
+</h1>
 
 
 # 💫 About Me:
