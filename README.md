@@ -1,10 +1,7 @@
-<h3 align="center">
-  Hi there, I'm <a href="https:://vrajpatel.tech/" target="_blank">Vraj</a> 👋
-</h3>
-
 <h2 align="center">
-  I'm a Machine Learning Engineer 💻, Photographer 📸, and Designer 🎨!
+  Hi there, I'm <a href="https:://vrajpatel.tech/" target="_blank">Vraj Patel</a> 👋
 </h2>
+
 
 # 💫 About Me:
 Hi there! I'm a passionate machine learning engineer who loves building innovative solutions using cutting-edge technology. I believe in the power of collaboration and I'm always on the lookout for opportunities to work with like-minded individuals and organizations. I'm currently exploring new machine learning algorithms and data analysis techniques to improve my skills. If you have any questions about data science or machine learning, feel free to ask me! Let's connect and build something amazing together!
@@ -20,11 +17,17 @@ Hi there! I'm a passionate machine learning engineer who loves building innovati
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vrajpatel9988&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vrajpatel9988&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vrajpatel9988&theme=Dark&no-frame=false&no-bg=true&margin-w=4)
 
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
