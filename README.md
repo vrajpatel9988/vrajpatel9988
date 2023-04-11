@@ -29,5 +29,4 @@ Hi there! I'm a passionate machine learning engineer who loves building innovati
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
----
-[![](https://visitor-badge.glitch.me/badge?page_id=vrajpatel9988.vrajpatel9988)](https://www.vrajpatel.tech/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=vrajpatel9988.vrajpatel9988)]
