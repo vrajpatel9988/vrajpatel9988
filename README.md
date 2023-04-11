@@ -30,4 +30,4 @@ Hi there! I'm a passionate machine learning engineer who loves building innovati
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=vrajpatel9988.vrajpatel9988)](https://www.vrajpatel.tech/)
+[![](https://visitor-badge.glitch.me/badge?page_id=vrajpatel9988.vrajpatel9988)](https://www.vrajpatel.tech/)
