@@ -69,5 +69,8 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 📈 GitHub Stats 
 
 [![Vraj's github stats](https://github-readme-stats.vercel.app/api?username=vrajpatel9988)](https://github.com/vrajpatel9988)
+![Vraj's github stats](https://github-readme-streak-stats.herokuapp.com/?user=vrajpatel9988&theme=dark&hide_border=false)<br/>
+![Vraj's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vrajpatel9988&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=vrajpatel9988.vrajpatel9988)](https://www.vrajpatel.tech/)
