@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm <a href="https:://vrajpatel.tech/" target="_blank">Vraj Patel</a> 👋
+  Hi there, I'm <a href="https://vrajpatel.tech/" target="_blank">Vraj Patel</a> 👋
 </h1>
 
 
@@ -29,6 +29,7 @@ Hi there! I'm a passionate machine learning engineer who loves building innovati
 ## 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
+---
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vrajpatel9988.vrajpatel9988)
 
