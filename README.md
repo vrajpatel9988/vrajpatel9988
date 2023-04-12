@@ -31,5 +31,5 @@ Hi there! I'm a passionate machine learning engineer who loves building innovati
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vrajpatel9988.vrajpatel9988)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=vrajpatel9988.vrajpatel9988)
 
