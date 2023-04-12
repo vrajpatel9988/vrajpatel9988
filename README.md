@@ -31,7 +31,7 @@ Hi there! I'm a passionate machine learning engineer who loves building innovati
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vrajpatel9988&label=Profile%20views&color=0e75b6&style=flat" alt="vrajpatel9988" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vrajpatel9988&label=Profile%20Views&color=0e75b6&style=flat" alt="vrajpatel9988" /> </p>
 
 <!-- ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=vrajpatel9988.vrajpatel9988&label=Profile%20Views) -->
 
