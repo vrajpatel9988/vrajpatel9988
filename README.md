@@ -17,22 +17,18 @@ Hi there! I'm a passionate machine learning engineer who loves building innovati
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vrajpatel9988&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vrajpatel9988&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vrajpatel9988&theme=Dark&no-frame=false&no-bg=true&margin-w=4)
 
----
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
 ## 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
----
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vrajpatel9988.vrajpatel9988)
 
