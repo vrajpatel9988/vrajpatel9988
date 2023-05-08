@@ -26,8 +26,11 @@ Hi there! I'm a passionate machine learning engineer who loves building innovati
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<!-- ## 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/> -->
+
+![Random Dev Meme](https://api.imgflip.com/get_memes?filter=dev&random=true)
+
 
 ---
 
