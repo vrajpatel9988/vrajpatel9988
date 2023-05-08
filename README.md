@@ -21,8 +21,6 @@ Hi there! I'm a passionate machine learning engineer who loves building innovati
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vrajpatel9988&theme=Dark&no-frame=false&no-bg=true&margin-w=4)
 
-![Random Dev Meme](https://meme-api.herokuapp.com/gimme/ProgrammerHumor)
-
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
