@@ -2,39 +2,68 @@
   Hi there, I'm <a href="https://vrajpatel.tech/" target="_blank">Vraj Patel</a> 👋
 </h1>
 
-
 # 💫 About Me:
-Hi there! I'm a passionate machine learning engineer who loves building innovative solutions using cutting-edge technology. I believe in the power of collaboration and I'm always on the lookout for opportunities to work with like-minded individuals and organizations. I'm currently exploring new machine learning algorithms and data analysis techniques to improve my skills. If you have any questions about data science or machine learning, feel free to ask me! Let's connect and build something amazing together!
+Hi there! I'm a passionate Data Engineer with expertise in building scalable data pipelines, real-time streaming architectures, and cloud-based data solutions. With hands-on experience in Big Data technologies, I specialize in optimizing ETL workflows, working with distributed systems, and leveraging cloud platforms like AWS and Azure.  
+
+Currently, I am pursuing my Master's in Computer Science at the University of Houston, expected to graduate in May 2025. I have worked as a Research Assistant, focusing on AI-driven chatbot development, and previously as a Data Engineer, optimizing large-scale data workflows.  
+
+If you're interested in data engineering, cloud computing, or real-time streaming, let's connect and collaborate on exciting projects!
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vrajpatell__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrajpatel9988/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vrajpatel9988) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vrajpatel9988) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrajpatel9988/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white)](https://github.com/vrajpatel9988)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vrajpatel9988)  
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Programming & DevOps:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![SQL](https://img.shields.io/badge/SQL-%230075B5.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)  
+
+### Big Data & Cloud:
+![Apache Spark](https://img.shields.io/badge/Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)  
+![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)  
+![Apache Kafka](https://img.shields.io/badge/Kafka-%23000000.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)  
+![Apache Airflow](https://img.shields.io/badge/Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)  
+![Hadoop](https://img.shields.io/badge/Hadoop-%23FFBB00.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+
+### Databases:
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Snowflake](https://img.shields.io/badge/Snowflake-%2300C7B7.svg?style=for-the-badge&logo=snowflake&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)  
+
+# 🚀 Projects:
+- **Real-Time Streaming & Processing** | Apache Kafka, Apache Flink, AWS Kinesis  
+  - Designed a real-time streaming architecture to process unstructured data efficiently.  
+  - Integrated AWS Glue and OpenSearch for scalable data storage and analytics.  
+
+- **Stock Market Data Streaming** | Apache Kafka, AWS (S3, Athena, Glue)  
+  - Built a data pipeline capturing live stock market fluctuations using Kafka.  
+  - Leveraged AWS Glue for structuring financial data for trend analysis.  
+
+- **Automated ETL Framework** | Apache Airflow, Snowflake, dbt, SQL, Terraform  
+  - Developed an end-to-end ETL pipeline with automated data transformations.  
+  - Optimized Snowflake cost and performance for scalable query execution.  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vrajpatel9988&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vrajpatel9988&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vrajpatel9988&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vrajpatel9988&theme=Dark&no-frame=false&no-bg=true&margin-w=4)
-
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-<!-- ## 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/> -->
-
-
-
-
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrajpatel9988&label=Profile%20Views&color=0e75b6&style=flat" alt="vrajpatel9988" /> </p>
-
-<!-- ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=vrajpatel9988.vrajpatel9988&label=Profile%20Views) -->
-
