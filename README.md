@@ -64,7 +64,6 @@ I hold an **MS in Computer Science from the University of Houston** (May 2025), 
 | :--- | :--- | :--- |
 | **Capital Project Progress and Cost Dashboard** | Star schema model and Power BI report tracking planned value, earned value, and schedule and cost variance across a multi phase capital project | Power BI, SQL Server, Power Query, DAX |
 | **Customer Churn Prediction and Retention Insights** | Power BI dashboard on SQL Server and CRM data that flags customers at risk of churn, with Python scoring inside the report | Power BI, SQL Server, Python |
-| _add a third here_ | _one line on what it does_ | _tools_ |
 
 ## 📜 Certifications
 
