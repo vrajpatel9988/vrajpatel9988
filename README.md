@@ -1,50 +1,78 @@
-<h1 align="center">
-  Hi there, I'm <a href="https://vrajpatel.tech/" target="_blank">Vraj Patel</a> 👋
-</h1>
+<h1 align="center">Hi there, I'm Vraj Patel 👋</h1>
 
-## 💫 About Me:
-I am a Data Engineer with experience in building scalable data pipelines, real-time streaming architectures, and cloud-based solutions. I specialize in optimizing ETL workflows, working with distributed systems, and leveraging cloud platforms like AWS and Azure.  
-
-Currently, I am pursuing my Master's in Computer Science at the University of Houston, expected to graduate in May 2025. I have experience as a Research Assistant and have worked on AI-driven chatbot development.  
-
-If you're into **data engineering, cloud computing, or real-time streaming**, let’s connect and collaborate!
-
----
-## 🌐 Socials:
-<p align="left">
-  <a href="https://www.linkedin.com/in/vrajpatel9988/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/vrajpatel9988">
-    <img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://medium.com/@vrajpatel9988">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
+<p align="center">
+  <b>Data and Reporting Analyst</b> · Power BI · SQL · Microsoft Power Platform
 </p>
 
-## 🛠 Tech Stack:
-
-### 🚀 Programming & DevOps:
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/SQL-%230075B5.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
+<p align="center">
+  <a href="https://www.linkedin.com/in/vrajpatel9988/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.vrajpatel.tech/"><img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://medium.com/@vrajpatel9988"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="mailto:vrajpatel9988@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-### ☁️ Big Data & Cloud:
-<p align="left">
-  <img src="https://img.shields.io/badge/Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white">
-  <img src="https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white">
-  <img src="https://img.shields.io/badge/Kafka-%23000000.svg?style=for-the-badge&logo=apache-kafka&logoColor=white">
-  <img src="https://img.shields.io/badge/Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Hadoop-%23FFBB00.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-</p>
+## 💫 About Me
 
----
+I'm an **Integrations Analyst at MRC Global** in Houston, where I build Power BI reporting, data models, and Power Platform automation for operations and management teams. Most of my work is taking messy enterprise data from Oracle Fusion, Snowflake, SQL Server, and SharePoint, and turning it into reports people actually use to make decisions.
+
+I hold an **MS in Computer Science from the University of Houston** (May 2025), and I came into analytics from a data engineering background, so I'm comfortable across the whole path from source system to final visual.
+
+**What I'm working on right now**
+
+* Power BI semantic models, DAX measures, and report design for operational and capital project reporting
+* Power Apps and Power Automate solutions that replace manual spreadsheet and email processes
+* Data quality and validation checks that catch problems before they reach a published report
+* Process documentation so reporting can be handed off and maintained by someone else
+
+## 🛠️ Tech Stack
+
+**Reporting and BI**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-01579B?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+**Power Platform and Microsoft 365**
+
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
+![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![Excel VBA](https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Data and Databases**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Languages and Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+## 📌 Featured Work
+
+| Project | What it does | Built with |
+| :--- | :--- | :--- |
+| **Capital Project Progress and Cost Dashboard** | Star schema model and Power BI report tracking planned value, earned value, and schedule and cost variance across a multi phase capital project | Power BI, SQL Server, Power Query, DAX |
+| **Customer Churn Prediction and Retention Insights** | Power BI dashboard on SQL Server and CRM data that flags customers at risk of churn, with Python scoring inside the report | Power BI, SQL Server, Python |
+| _add a third here_ | _one line on what it does_ | _tools_ |
+
+## 📜 Certifications
+
+* AWS Certified Solutions Architect, Associate
+* AWS Certified Data Engineer, Associate
+
+## 🤝 Let's connect
+
+Always happy to talk about Power BI modeling, report design, or getting clean data out of stubborn enterprise systems.
+
+[LinkedIn](https://www.linkedin.com/in/vrajpatel9988/) · [Website](https://www.vrajpatel.tech/) · [Email](mailto:vrajpatel9988@gmail.com)
