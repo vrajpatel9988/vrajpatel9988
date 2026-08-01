@@ -72,5 +72,3 @@ I hold an **MS in Computer Science from the University of Houston** (May 2025), 
 ## 🤝 Let's connect
 
 Always happy to talk about Power BI modeling, report design, or getting clean data out of stubborn enterprise systems.
-
-[LinkedIn](https://www.linkedin.com/in/vrajpatel9988/) · [Website](https://www.vrajpatel.tech/) · [Email](mailto:vrajpatel9988@gmail.com)
